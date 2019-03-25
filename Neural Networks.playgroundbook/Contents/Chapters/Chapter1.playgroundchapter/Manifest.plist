@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Neural Networks</string>
+	<key>Pages</key>
+	<array>
+		<string>1_Introduction.playgroundpage</string>
+		<string>2_Working.playgroundpage</string>
+		<string>3_Training.playgroundpage</string>
+		<string>4_TicTacChec.playgroundpage</string>
+	</array>
+</dict>
+</plist>
